@@ -4,7 +4,7 @@ public class BasicConversionExercises {
 
     // Exercise 1
     public static int exercise1_addNumbers(int a, int b) {
-        return 0;
+        return a + b;
     }
 
     // Exercise 2
