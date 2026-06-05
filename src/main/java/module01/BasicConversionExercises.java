@@ -25,7 +25,10 @@ public class BasicConversionExercises {
 
     // Exercise 5
     public static int exercise5_maxOfTwo(int a, int b) {
-        return 0;
+        if (a > b) {
+            return a;
+        } else
+            return b;
     }
 
     // Exercise 6
