@@ -19,7 +19,8 @@ public class BasicConversionExercises {
 
     // Exercise 4
     public static double exercise4_calculateArea(double radius) {
-        return 0.0;
+        double pi = 3.14159;;
+        return pi * radius * radius;
     }
 
     // Exercise 5
