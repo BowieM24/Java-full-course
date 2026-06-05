@@ -9,12 +9,12 @@ public class BasicConversionExercises {
 
     // Exercise 2
     public static boolean exercise2_isEven(int number) {
-        return false;
+        return number % 2 ==0;
     }
 
     // Exercise 3
     public static String exercise3_greet(String name) {
-        return null;
+        return "Hello, " + name;
     }
 
     // Exercise 4
